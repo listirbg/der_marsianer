@@ -24,6 +24,7 @@ Such dir den Ordner "Der Marsianer" im Ordner "exec" heraus und zieh diesen auf 
 Nun kannst du das Spiel über einen Doppelklick auf die Datei "Der Marsianer.exe" starten.
 Falls die Datei vom Antivirenprogramm oder der Windows Firewall gesperrt wird,
 muss die Meldung ignoriert oder die Datei manuell freigegeben werden.
+("Weitere Informationen" → "Trotzdem ausführen")
 
 Alternative Möglichkeit:
 Installiere Pygame und führe die Datei "main_game.py" aus.

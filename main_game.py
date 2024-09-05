@@ -363,6 +363,7 @@ def main():
     flags = pygame.FULLSCREEN | pygame.NOFRAME | pygame.SCALED
     screen = pygame.display.set_mode((1920, 1080), flags=flags)
     pygame.display.set_caption("Der Marsianer")
+    pygame.mouse.set_visible(0)
     # Clock für Bildwiederholungsrate definieren
     clock = pygame.time.Clock()
 
