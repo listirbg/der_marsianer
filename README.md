@@ -14,7 +14,8 @@ Vielen Dank für eure Hilfe und viel Spaß beim Spielen.
 
 ## So startest du das Spiel
 
-Lade dir den Ordner "Der Marsianer" aus dem Ordner exec herunter. 
+Lade dir alle Dateien über den Button "Code" → "Download ZIP" herunter und entpacke diesen.
+Such dir den Ordner "Der Marsianer" im Ordner "exec" heraus und zieh diesen auf den Desktop.
 Nun kannst du das Spiel über einen Doppelklick auf die Datei "Der Marsianer.exe" starten.
 Falls die Datei vom Antivirenprogramm gesperrt wird,
 muss dieses deaktiviert oder die Datei manuell freigegeben werden.
