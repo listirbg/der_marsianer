@@ -4,9 +4,9 @@
 
 Willkommen zur Beta des Spiels, welche bis 09.09.2024 öffentlich ist.
 Ihr seid die ersten die unser IT-Projekt "Der Marsianer" ausprobieren dürfen.
-Wie ihr das Spiel herunterladet, lest ihr unten.
+Wie ihr das Spiel herunterladet und installiert, lest ihr unten.
 
-Bei Fragen kontaktiert mich per WhatsApp oder über folgende Mail-Adresse:
+Bei Fragen kontaktiert mich gerne beispielsweise per WhatsApp oder über folgende Mail-Adresse:
 marcel.list@rdf.nuernberg.de
 
 Bitte melde alle Bugs über folgenden Link:
@@ -17,16 +17,21 @@ https://forms.office.com/e/Rpn7mJTJQD
 
 Vielen Dank für eure Hilfe und viel Spaß beim Spielen.
 
-## So startest du das Spiel
+## So installierst du das Spiel
 
+**Lade dir den Installer über folgenden Link herunter und installiere das Spiel:** 
+https://drive.google.com/file/d/1N7S-ZBmJv_53IxPeRB9dGpg4y9aIUIju/view?usp=sharing
+
+**Alternative 1:**
 Lade dir alle Dateien über den Button "Code" → "Download ZIP" herunter und entpacke diesen.
 Such dir den Ordner "Der Marsianer" im Ordner "exec" heraus und zieh diesen auf den Desktop.
 Nun kannst du das Spiel über einen Doppelklick auf die Datei "Der Marsianer.exe" starten.
-Falls die Datei vom Antivirenprogramm oder der Windows Firewall gesperrt wird,
-muss die Meldung ignoriert oder die Datei manuell freigegeben werden.
-("Weitere Informationen" → "Trotzdem ausführen")
 
-Alternative Möglichkeit:
+_Falls die Datei vom Antivirenprogramm oder der Windows Firewall gesperrt wird,
+muss die Meldung ignoriert oder die Datei manuell freigegeben werden.
+("Weitere Informationen" → "Trotzdem ausführen")_
+
+**Alternative 2:**
 Installiere Pygame und führe die Datei "main_game.py" aus.
 
 **Hinweis:**
