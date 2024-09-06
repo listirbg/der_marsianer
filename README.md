@@ -19,16 +19,20 @@ Vielen Dank für eure Hilfe und viel Spaß beim Spielen.
 
 ## So installierst du das Spiel
 
+**Lade dir den Installer unter folgendem Link herunter und installiere das Spiel:**
+https://drive.google.com/file/d/1T50eggGPB4C8BDuLJDNMUQ9K2pH5FlHN/view?usp=sharing
+
+**Alternative 1:**
 Lade dir alle Dateien über den Button "Code" → "Download ZIP" herunter und entpacke diesen.
 Such dir den Ordner "Der Marsianer" im Ordner "exec" heraus und zieh diesen auf den Desktop.
 Nun kannst du das Spiel über einen Doppelklick auf die Datei "Der Marsianer.exe" starten.
 
-_Falls die Datei vom Antivirenprogramm oder der Windows Firewall gesperrt wird,
-muss die Meldung ignoriert oder die Datei manuell freigegeben werden.
-("Weitere Informationen" → "Trotzdem ausführen")_
-
 **Alternative 2:**
 Installiere Pygame und führe die Datei "main_game.py" aus.
+
+**_Falls die Datei vom Antivirenprogramm oder der Windows Firewall gesperrt wird,
+muss die Meldung ignoriert oder die Datei manuell freigegeben werden.
+("Weitere Informationen" → "Trotzdem ausführen")_**
 
 **Hinweis:**
 Das Spiel ist nur für Anzeigen mit einer Auflösung von FullHD (1920x1080px) und
