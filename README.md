@@ -19,10 +19,6 @@ Vielen Dank für eure Hilfe und viel Spaß beim Spielen.
 
 ## So installierst du das Spiel
 
-**Lade dir den Installer über folgenden Link herunter und installiere das Spiel:** 
-https://drive.google.com/file/d/1N7S-ZBmJv_53IxPeRB9dGpg4y9aIUIju/view?usp=sharing
-
-**Alternative 1:**
 Lade dir alle Dateien über den Button "Code" → "Download ZIP" herunter und entpacke diesen.
 Such dir den Ordner "Der Marsianer" im Ordner "exec" heraus und zieh diesen auf den Desktop.
 Nun kannst du das Spiel über einen Doppelklick auf die Datei "Der Marsianer.exe" starten.
