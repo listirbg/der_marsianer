@@ -1,18 +1,15 @@
 # Der Marsianer
 
-## Beta
+Willkommen zu unserem Spiel "Der Marsianer", welches im Zuge eines IT-Projekts an der Technikerschule entstanden ist.
+Wie ihr das Spiel herunterladet, installiert und alle weiteren Informationen, lest ihr unten.
 
-Willkommen zur Beta des Spiels, welche bis 09.09.2024 öffentlich ist.
-Ihr seid die ersten die unser IT-Projekt "Der Marsianer" ausprobieren dürfen.
-Wie ihr das Spiel herunterladet und installiert, lest ihr unten.
-
-Bei Fragen kontaktiert mich gerne beispielsweise per WhatsApp oder über folgende Mail-Adresse:
+Bei Fragen kontaktiert mich gerne über folgende Mail-Adresse:
 marcel.list@rdf.nuernberg.de
 
-Bitte melde alle Bugs über folgenden Link:
+Bugs oder sonstige Probleme können über folgenden Link gemeldet werden:
 https://forms.office.com/e/fr3DQzFatf
 
-Bitte geb uns nach deinem ausführlichen Test ein Feedback über folgenden Link:
+Wir freuen uns über Feedback über folgenden Link:
 https://forms.office.com/e/Rpn7mJTJQD
 
 Vielen Dank für eure Hilfe und viel Spaß beim Spielen.
@@ -27,8 +24,9 @@ Lade dir alle Dateien über den Button "Code" → "Download ZIP" herunter und en
 Such dir den Ordner "Der Marsianer" im Ordner "exec" heraus und zieh diesen auf den Desktop.
 Nun kannst du das Spiel über einen Doppelklick auf die Datei "Der Marsianer.exe" starten.
 
-**Alternative 2:**
-Installiere Pygame und führe die Datei "main_game.py" aus.
+**Alternative 2 (für MacOS und Linux empfohlen):**
+Installiere Pygame über pip und
+führe die Datei "main_game.py" über eine beliebige IDE oder die Konsole aus.
 
 **_Falls die Datei vom Antivirenprogramm oder der Windows Firewall gesperrt wird,
 muss die Meldung ignoriert oder die Datei manuell freigegeben werden.
@@ -36,7 +34,9 @@ muss die Meldung ignoriert oder die Datei manuell freigegeben werden.
 
 **Hinweis:**
 Das Spiel ist nur für Anzeigen mit einer Auflösung von FullHD (1920x1080px) und
-die Nutzung unter Windows ausgelegt. Das Verhalten unter anderen Bedingungen wurde nicht getestet.
+die Nutzung unter Windows ausgelegt. 
+Andere Auflösungen funktionieren im Normalfall,
+das Verhalten unter anderen Bedingungen wurde allerdings nicht explizit getestet.
 
 ## Das Spiel
 
@@ -48,18 +48,21 @@ beim Abstürzen wird dein Raumschiff zerstört und seine Teile werden über den 
 - Pass auf, dass dir nicht der Sauerstoff ausgeht und fülle ihn dazu regelmäßig am Raumschiff auf (F)
 - Pass auf, dass du nicht alle Leben verlierst und stirbst
 
-
 ## Steuerung
   - W: nach oben laufen
   - A: nach links laufen
   - S: nach unten laufen
   - D: nach rechts laufen
   - F: Interaktion mit Gegenständen
+    - Teile aufsammeln
+    - Teile am Raumschiff montieren
+    - Sauerstoff am Raumschiff auffüllen
   - ESC: Menü
 
 ## Credits
 - Grafiken: Timo Weber mithilfe des Microsoft Bildgenerators (basierend auf DALL-E von OpenAI)
-- Sounds: 
+- Programm-Icon: https://icon-icons.com/de/symbol/mars/98594
+- Sounds:
   - Hintergrundmusik Menü:
     - Illusory Realm by Darren Curtis | https://www.darrencurtismusic.com/
 Music promoted on https://www.chosic.com/free-music/all/
@@ -76,4 +79,5 @@ Creative Commons CC0 Public Domain
 ## Changelog
 
 **v0.1**
-- erste Beta-Version des Spiels
+- erste Beta-Version 
+- wurde ohne Anpassungen als erste Release-Version übernommen

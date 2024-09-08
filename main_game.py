@@ -3,6 +3,10 @@
 # Adventure Game #
 # ################
 
+# ###############
+# Version: v0.1 #
+# ###############
+
 # MODULE
 # Standard-Module
 # time zum Arbeiten mit Zeiten
